@@ -1,0 +1,7 @@
+pillow
+scipy
+opencv-python
+numpy
+tqdm
+keyboard
+mouse
